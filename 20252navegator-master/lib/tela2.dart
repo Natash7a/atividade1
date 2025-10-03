@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:navegartelas/widgets.dart'; // ajuste o caminho conforme seu projeto
+import 'package:navegartelas/widgets.dart';
 
 class Tela2 extends StatelessWidget {
   final String nome;

@@ -54,7 +54,7 @@ class _Tela1State extends State<Tela1> {
             child: Column(
               mainAxisSize: MainAxisSize.min,
               children: [
-                // Ícone de cadastro no topo
+           
                 const Icon(
                   Icons.person_add,
                   size: 100,
